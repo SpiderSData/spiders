@@ -1,0 +1,13 @@
+setup.py
+Daikokuya78/__init__.py
+Daikokuya78/items.py
+Daikokuya78/middlewares.py
+Daikokuya78/pipelines.py
+Daikokuya78/settings.py
+Daikokuya78/spiders/__init__.py
+Daikokuya78/spiders/daikokuya78.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
